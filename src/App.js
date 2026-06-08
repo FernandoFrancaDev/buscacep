@@ -24,8 +24,8 @@ function App() {
   }
 
   return (
-   <div className="container"> 
-    <h1 className="title">Buscador de CEP(Codigo Endereçamento Postal)</h1>
+   <div className="container">
+    <h1 className="title">Buscador de CEP(Codigo de Endereçamento Postal)</h1>
     <div className="containerInput">
       <input
       type="text"
